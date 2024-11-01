@@ -1,5 +1,3 @@
-# Streamlit Multi-page App
-
 ## Overview
 
 This repository contains a multi-page application built using **Streamlit**. The application features multiple projects and an "About Me" page, providing an organized structure for easy navigation between pages. Each page serves a specific purpose, such as demonstrating machine learning models or providing useful tools like image background removal.
